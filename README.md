@@ -32,10 +32,13 @@ The goal of this project is to segment customers of a retail store using K-means
 **Project Structure**
 * bash
 * Copy code
-`.
+
+
 ├── Mall_Customers.csv       # Dataset file
+
 ├── README.md                # Project documentation
-└── kmeans_clustering.ipynb  # Jupyter notebook with the clustering analysis`
+
+└── kmeans_clustering.ipynb  # Jupyter notebook with the clustering analysis
 
 **Requirements**
 * Python 3.x
